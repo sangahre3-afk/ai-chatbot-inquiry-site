@@ -1,0 +1,4 @@
+:HL["/ai-chatbot-inquiry-site/_next/static/chunks/2c23s3n14sk2r.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"chat","h":96,"c":"$Q2"}]]
+0:{"b":"yENXP-BXxrPtWIg5YFSCL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
